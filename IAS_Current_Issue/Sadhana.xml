@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jsd SYSTEM "jsd.dtd">
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<journal title="Sadhana" short="Sadhana" mnemonic="Sadhana">
+	<volume vnum="040">
+		<issue inum="01" month="02" year="2015">
+			<entry hassup="0">
+				<title>Nature-inspired novel Cuckoo Search Algorithm for genome sequence assembly</title>
+				<feature></feature>
+				<page>0001-0014</page>
+				<abstract>
+					<p>This study aims to produce a novel optimization algorithm, called the Cuckoo Search Algorithm (CS), for solving the genome sequence assembly problem. Assembly of genome sequence is a technique that attempts to rebuild the target sequence from the collection of fragments. This study is the first application of the CS for DNA sequence assembly problem in the literature. The algorithm is based on the levy flight behaviour and brood parasitic behaviour. The CS algorithm is employed to maximize the overlap score by reconstructing the original DNA sequence. Experimental results show the ability of the CS to find better optimal genome assembly. To check the efficiency of the proposed technique the results of the CS is compared with one of the well known evolutionary algorithms namely, particle swarm optimization (PSO) and its variants.</p>
+				</abstract>
+				<keywords>Bioinformatics;Cuckoo search;genome sequence assembly;metaheuristics</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Indumathy">R. Indumathy</name>
+						<affiliation>Department of Electronics and Communication Engineering, Coimbatore Institute of Technology, Coimbatore 641 014, India</affiliation>
+						<email>indumathy.rajagopal@gmail.com</email>
+					</author>
+					<author>
+						<name first="S. Uma" last="Maheswari">S. Uma Maheswari</name>
+						<affiliation>Department of Electronics and Communication Engineering, Coimbatore Institute of Technology, Coimbatore 641 014, India</affiliation>
+						<email>umamaheswari.cit@gmail.com</email>
+					</author>
+					<author>
+						<name first="G." last="Subashini">G. Subashini</name>
+						<affiliation>Department of Information Technology, PSG College of Technology, Coimbatore 641 004, India</affiliation>
+						<email>suba@ity.psgtech.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-01</date>
+					<date type="R">2014-01-28</date>
+					<date type="A">2014-08-24</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Contextual snowflake modelling for pattern warehouse logical design</title>
+				<feature></feature>
+				<page>0015-0033</page>
+				<abstract>
+					<p>Pattern warehouse provides the infrastructure for knowledge representation and mining by allowing the patterns to be stored permanently. The goal of this paper is to discuss the pattern warehouse design and related quality issues. In the present work, we focus on conceptual and logical design of pattern warehouse, by introducing a context and ‘kind of knowledge’ hierarchy to this end. For the simplicity, association kinds of patterns are considered for running examples. We have extended well-known ‘snowflake’ schema for pattern warehouse logical design. We have introduced a new concept hierarchy ‘$kind\ of\ knowledge$’ which helps to arrange patterns, the four quality forms (QF) are also discussed which will work as guidelines for pattern warehouse conceptual and logical design to minimize the evaluation and maintenance cost. In particular, we address the three main issues:</p>
+					<ol type="lower-roman">
+						<li>conceptual design</li>
+						<li>snowflake schema and</li>
+						<li>pattern refreshment.</li>
+					</ol>
+				</abstract>
+				<keywords>Pattern warehouse;pattern warehouse management systems (PWMS);data models;knowledge warehousing;conceptual modelling;context modelling;quality forms.</keywords>
+				<authors>
+					<author>
+						<name first="Vivek" last="Tiwari">Vivek Tiwari</name>
+						<affiliation>Maulana Azad National Institute of Technology (MA-NIT), Bhopal 462 007, India</affiliation>
+						<email>vivek.vktonline@gmail.com</email>
+					</author>
+					<author>
+						<name first="Ramjeevan Singh" last="Thakur">Ramjeevan Singh Thakur</name>
+						<affiliation>Maulana Azad National Institute of Technology (MA-NIT), Bhopal 462 007, India</affiliation>
+						<email>ramthakur2000@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-03-10</date>
+					<date type="R">2014-08-22</date>
+					<date type="A">2014-09-15</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>New approach to solve fully fuzzy system of linear equations using single and double parametric form of fuzzy numbers</title>
+				<feature></feature>
+				<page>0035-0049</page>
+				<abstract>
+					<p>This paper proposes two new methods to solve fully fuzzy system of linear equations. The fuzzy system has been converted to a crisp system of linear equations by using single and double parametric form of fuzzy numbers to obtain the non-negative solution. Double parametric form of fuzzy numbers is defined and applied for the first time in this paper for the present analysis. Using single parametric form, the $n \times n$ fully fuzzy system of linear equations have been converted to a $2n \times 2n$ crisp system of linear equations. On the other hand, double parametric form of fuzzy numbers converts the n×n fully fuzzy system of linear equations to a crisp system of same order. Triangular and trapezoidal convex normalized fuzzy sets are used for the present analysis. Known example problems are solved to illustrate the efficacy and reliability of the proposed methods.</p>
+				</abstract>
+				<keywords>Fuzzy number;triangular fuzzy number;trapezoidal fuzzy number;parametric form of fuzzy number;fully fuzzy system of liner equations.</keywords>
+				<authors>
+					<author>
+						<name first="Diptiranjan" last="Behera">Diptiranjan Behera</name>
+						<affiliation>Department of Mathematics, National Institute of Technology Rourkela, Odisha 769 008, India</affiliation>
+						<email>diptiranjanb@gmail.com</email>
+					</author>
+					<author>
+						<name first="S." last="Chakraverty">S. Chakraverty</name>
+						<affiliation>Department of Mathematics, National Institute of Technology Rourkela, Odisha 769 008, India</affiliation>
+						<email>sne_chak@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-08-08</date>
+					<date type="R">2014-06-09</date>
+					<date type="A">2014-09-02</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Automated adaptive sliding mode control scheme for a class of real complicated systems</title>
+				<feature></feature>
+				<page>0051-0074</page>
+				<abstract>
+					<p>A class of real complicated systems, including chemical reactions, biological systems, information processing, laser systems, electrical circuits, information exchange, brain activities modelling, secure communication and other related ones can be presented through nonlinear and non-identical hyper-chaotic systems. The main goal of the present investigation is to synchronize two non-identical hyperchaotic master/slave systems, which are given as the models of the complicated systems, based on the realization of an efficient automated adaptive sliding mode control scheme. In the research presented here, the mentioned systems need to be dealt with through the proposed control scheme, since two non-identical systems are completely synchronized. In one such case, the whole of the chosen states of the master and slave systems should be coincided after a few time steps, as long as the effect of the external disturbance, uncertainty and unknown parameters could truly be ignored. Due to the fact that the investigated hyper-chaotic systems have taken into consideration as the representation of a number of complicated processes under mentioned external disturbance, uncertainty and unknown parameters, the traditional control approaches cannot actually be realized, in satisfactory manners.With this purpose, the proposed control scheme has been designed to cope with synchronization error, in a reasonable amount of time, in order to drive applicable hyper-chaotic systems. Consequently, the performance of the proposed control scheme is considered and verified through the numerical simulations.</p>
+				</abstract>
+				<keywords>Complicated systems;efficient automated adaptive sliding mode controlscheme;non-identical hyper-chaotic master/slave systems;synchronization error;numerical simulations.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Shahi">M. Shahi</name>
+						<affiliation>Department of Electrical Engineering, Birjand Branch, Islamic Azad University (IAU), Birjand, Iran</affiliation>
+						<email>m.shahi@iaubir.ac.ir</email>
+					</author>
+					<author>
+						<name first="A. H." last="Mazinan">A. H. Mazinan</name>
+						<affiliation>Department of Control Engineering, Faculty of Electrical Engineering, South Tehran Branch, Islamic Azad University (IAU), No. 209, North Iranshahr St., P.O. Box 11365/4435, Tehran, Iran</affiliation>
+						<email>mazinan@azad.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-14</date>
+					<date type="R">2014-09-14</date>
+					<date type="A">2014-11-01</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Proximity fed gap-coupled half E-shaped microstrip antenna array</title>
+				<feature></feature>
+				<page>0075-0087</page>
+				<abstract>
+					<p>Broadband gap-coupled array configuration of proximity fed rectangular microstrip antenna with half E-shaped microstrip antennas are proposed. The rectangular slot in half E-shaped patch reduces the orthogonal TM$_{01}$ mode resonance frequency of equivalent rectangular patch and along with TM$_{10}$ modes of fed and parasitic rectangular patches, yields broader bandwidth of more than 470 MHz (&gt; 45%). An improvement in radiation pattern and gain characteristics over the bandwidth is obtained by gap-coupling half E-shaped patches along all the edges of proximity fed rectangular patch, which yields bandwidth of nearly 510 MHz ($\sim$49%). Further to enhance the gain, a gap-coupled 3 $\times$ 3 array configuration of half E-shaped patches with proximity fed rectangular microstrip antenna is proposed. The gap-coupled array configuration yields bandwidth of more than 530 MHz (&gt;50%) with broadside radiation pattern and peak gain of 11 dBi.</p>
+				</abstract>
+				<keywords>Rectangular microstrip antenna;broadband microstrip antenna;half Eshaped microstrip antenna;proximity feeding;higher order mode.</keywords>
+				<authors>
+					<author>
+						<name first="Amit A." last="Deshmukh">Amit A. Deshmukh</name>
+						<affiliation>Department of Electronics and Telecommunication Engineering, D. J. Sanghvi College of Engineering, Vile –Parle (W), Mumbai 400 056, India</affiliation>
+						<email>amitdeshmukh76@gmail.com</email>
+					</author>
+					<author>
+						<name first="K. P." last="Ray">K. P. Ray</name>
+						<affiliation>Society for Applied Microwave Electronics Engineering and Research, Indian Institute of Technology Campus, Powai, Mumbai 400 076, India</affiliation>
+						<email>kpray@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-23</date>
+					<date type="R">2014-04-19</date>
+					<date type="A">2014-08-24</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Experimental validation of waveform relaxation technique for power system controller testing</title>
+				<feature></feature>
+				<page>0089-0106</page>
+				<abstract>
+					<p>AWaveform Relaxation (WR) based iterative real-time playback scheme for controller testing was recently proposed in the literature along with proof-ofconcept simulations. This scheme can be a low-cost alternative to Hardware-in-Loop simulation, as it does not require a real-time simulator. To demonstrate practical feasibility of the WR scheme, this paper presents results of experiments with real-time implementation of controllers, iteratively interacting with simulated models of power apparatus via storage and real-time play-back. Two systems are considered: a HVDC controller tested with a detailed model of the converters, and a TCSC based damping controller tested with a low frequency model of a power system. The results are validated with those obtained using simulated models of the controllers. We also present results of an experiment in which the tested HVDC controller is used to control the scaled real-life HVDC apparatus, for which a simulated model was used during controller testing. Convergence and a good match between simulated and real-time implementation are obtained for the HVDC system. The experiments on the TCSC damping controller drawn our attention to a potential convergence problem which may arise due to iteration-dependent round-off noise.</p>
+				</abstract>
+				<keywords>Power systemcontrollers;controller testing;hardware in loop simulation;waveform relaxation method.</keywords>
+				<authors>
+					<author>
+						<name first="S. P." last="Panda">S. P. Panda</name>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
+						<email>sakti@ee.iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="K. A." last="Salunkhe">K. A. Salunkhe</name>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
+						<email>salunkheka@ee.iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="A. M." last="Kulkarni">A. M. Kulkarni</name>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
+						<email>anil@ee.iitb.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-07</date>
+					<date type="R">2014-07-26</date>
+					<date type="A">2014-09-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fuzzy delay model based fault simulator for crosstalk delay fault test generation in asynchronous sequential circuits</title>
+				<feature></feature>
+				<page>0107-0119</page>
+				<abstract>
+					<p>In this paper, a fuzzy delay model based crosstalk delay fault simulator is proposed. As design trends move towards nanometer technologies, more number of new parameters affects the delay of the component. Fuzzy delay models are ideal for modelling the uncertainty found in the design and manufacturing steps. The fault simulator based on fuzzy delay detects unstable states, oscillations and non-confluence of settling states in asynchronous sequential circuits. The fuzzy delay model based fault simulator is used to validate the test patterns produced by Elitist Non-dominated sorting Genetic Algorithm (ENGA) based test generator, for detecting crosstalk delay faults in asynchronous sequential circuits. The multi-objective genetic algorithm, ENGA targets two objectives of maximizing fault coverage and minimizing number of transitions. Experimental results are tabulated for SIS benchmark circuits for three gate delay models, namely unit delay model, rise/fall delay model and fuzzy delay model. Experimental results indicate that test validation using fuzzy delay model is more accurate than unit delay model and rise/fall delay model.</p>
+				</abstract>
+				<keywords>Asynchronous sequential circuits;crosstalk delay faults;fuzzy delay model;multi-objective genetic algorithm;fault coverage;transitions.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Jayanthy">S. Jayanthy</name>
+						<affiliation>Department of Electronics and Communication Engineering (ECE), Sri Ramakrishna Engineering College, Coimbatore 641 022, India</affiliation>
+						<email>jayanthy.s@srec.ac.in</email>
+					</author>
+					<author>
+						<name first="M. C." last="Bhuvaneswari">M. C. Bhuvaneswari</name>
+						<affiliation>Department of Electrical and Electronics Engineering (EEE), P.S.G. College of Technology, Coimbatore 641 004, India</affiliation>
+						<email>mcb@eee.psgtech.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-23</date>
+					<date type="R"></date>
+					<date type="A">2014-09-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An automated technique to determine spatio-temporal changes in satellite island images with vectorization and spatial queries</title>
+				<feature></feature>
+				<page>0121-0137</page>
+				<abstract>
+					<p>For spatio-temporal and topologic analyses, vectorial information (carrying coordinate values defined as point sets) gives better information than its raster (grid of pixels) counterpart. The study presented in this paper is based on</p>
+					<ol type="lower-roman">
+						<li>recognition and extraction of an island object in a set of digital images captured by LandSat-7 satellite and</li>
+						<li>modelling it as a polygon (vectorial) and making it easy to process and easy to understand for computers and information science applications.</li>
+					</ol>
+					<p>Polygon representations of island images then can be stored and manipulated through objectrelational spatial databases. Spatial databases have built-in functions and services for spatial objects defined with geometry types such as points, lines, and polygons. By this way we will be utilizing the rapidly changing and developing object-relational database communities’ studies and discoveries in spatio-temporal and topological analysis for the investigation of digital satellite images. This approach also enables service qualities as well as a better performance. The efficiency and feasibility of the proposed system will be examined by various scenarios such as earthquake, erosion and accretion. Scenarios are based on measuring the effects of the natural phenomena on a selected island on satellite images.</p>
+				</abstract>
+				<keywords>Vectorization;raster data;vector data;spatial databases;spatial queries;data modelling.</keywords>
+				<authors>
+					<author>
+						<name first="Süleyman" last="Eken">Süleyman Eken</name>
+						<affiliation>Department of Computer Engineering, Kocaeli University, 41380 Kocaeli, Turkey</affiliation>
+						<email>suleyman.eken@kocaeli.edu.tr</email>
+					</author>
+					<author>
+						<name first="Ahmet" last="Sayar">Ahmet Sayar</name>
+						<affiliation>Department of Computer Engineering, Kocaeli University, 41380 Kocaeli, Turkey</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-09</date>
+					<date type="R">2014-04-16</date>
+					<date type="A">2014-09-21</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Simulation and comparison of perturb and observe and incremental conductance MPPT algorithms for solar energy system connected to grid</title>
+				<feature></feature>
+				<page>0139-0153</page>
+				<abstract>
+					<p>Solar energy is a clean, green and renewable source of energy. It is available in abundance in nature. Solar cells by photovoltaic action are able to convert the solar energy into electric current. The output power of solar cell depends upon factors such as solar irradiation (insolation), temperature and other climatic conditions. Present commercial efficiency of solar cells is not greater than 15% and therefore the available efficiency is to be exploited to the maximum possible value and the maximum power point tracking (MPPT) with the aid of power electronics to solar array can make this possible. There are many algorithms proposed to realize maximum power point tracking. These algorithms have their own merits and limitations. In this paper, an attempt is made to understand the basic functionality of the two most popular algorithms viz. Perturb and Observe (P &amp; O) algorithm and Incremental conductance algorithm. These algorithms are compared by simulating a 100 kW solar power generating station connected to grid. MATLAB M-files are generated to understand MPPT and its dependency on insolation and temperature. MATLAB Simulink software is used to simulate the MPPT systems. Simulation results are presented to verify these assumptions.</p>
+				</abstract>
+				<keywords>Solar array;insolation;MPPT;modelling, P &amp;O;incremental conductance.</keywords>
+				<authors>
+					<author>
+						<name first="Sachin Vrajlal" last="Rajani">Sachin Vrajlal Rajani</name>
+						<affiliation>Department of Electrical Engineering, R.K. University, Rajkot 360020, India</affiliation>
+						<email>sachin_3541@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Vivek J." last="Pandya">Vivek J. Pandya</name>
+						<affiliation>School of Technolgy, Pandit Dindayal Petroleum University, Gandhinagar 382007, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-11-05</date>
+					<date type="R">2014-10-25</date>
+					<date type="A">2014-10-27</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Design and experiments of the fuel control method for the scramjet engine</title>
+				<feature></feature>
+				<page>0155-0171</page>
+				<abstract>
+					<p>The control method is one of the key application technologies of the engine. And the core of the scramjet control system is the fuel-based control method. The design and the experimental verification of the scramjet fuel-based control method were mainly carried out in this paper. The correlation between the engine thrust, the wall pressure and the equivalence ratio was obtained by means of the numerical simulation. Combined with the results of experiments, the fuel control method and the verification method of the experiment, which chose the wall pressure as the feedback signal, were designed and developed, and the ground test of the fuel control method was carried out. The results of the numerical simulation and the experiment showed that</p>
+					<ol type="lower-roman">
+						<li>the magnitude of the wall pressure at some axial locations of the combustor was proportional to the fuel flow rate and</li>
+						<li>the fuel control method based on the feedback signal, i.e., the wall pressure, and the choice of the location of the wall pressure control point were feasible and rational.</li>
+					</ol>
+				</abstract>
+				<keywords>Scramjet;controlled parameters;fuel control;thrust;wall pressure.</keywords>
+				<authors>
+					<author>
+						<name first="Jianping" last="Li">Jianping Li</name>
+						<affiliation>School of Power and Energy, Northwestern Polytechnical University, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<affiliation>New Concept Jet Propulsion Technology Key Laboratory of Fundamental Science for National Defence, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<email>lijianping001@mail.nwpu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Wenyan" last="Song">Wenyan Song</name>
+						<affiliation>School of Power and Energy, Northwestern Polytechnical University, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<affiliation>New Concept Jet Propulsion Technology Key Laboratory of Fundamental Science for National Defence, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiaobao" last="Han">Xiaobao Han</name>
+						<affiliation>School of Power and Energy, Northwestern Polytechnical University, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qiang" last="Fu">Qiang Fu</name>
+						<affiliation>School of Power and Energy, Northwestern Polytechnical University, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jun" last="Niu">Jun Niu</name>
+						<affiliation>The 31st Research Insititute of CASIC: China Aerospace Science &amp; Industry Corp, Beijing 10074, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wei" last="Xue">Wei Xue</name>
+						<affiliation>The 31st Research Insititute of CASIC: China Aerospace Science &amp; Industry Corp, Beijing 10074, China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-16</date>
+					<date type="R">2014-08-30</date>
+					<date type="A">2014-10-21</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analytic discrete cosine harmonic wavelet transform based OFDM system</title>
+				<feature></feature>
+				<page>0173-0181</page>
+				<abstract>
+					<p>An OFDM based on Analytic Discrete Cosine HarmonicWavelet Transform (ADCHWT_OFDM) has been proposed in this paper. Analytic DCHWT has been realized by applying DCHWT to the original signal and to its Hilbert transform. ADCHWT has been found to be computationally efficient and very effective in improving Bit Error Rate (BER) and Peak to Average Power Ratio (PAPR) performance. Improvement compared to that of Haar-WT OFDM and DFT OFDM is achieved without employing Cyclic Prefix BER is 0.002 for ADCHWT OFDM compared to Haar WT, DFT OFDM which have BER of 0.06 and 0.4, respectively, at 15 dB SNR. PAPR is also reduced by 3 dB compared to DFT OFDM and 0.3 dB reduction compared to Haar WT OFDM.</p>
+				</abstract>
+				<keywords>Analytic discrete cosine harmonic wavelet transform (ADCHWT);OFDM;dual tree complex wavelet transform;DCT;shift invariant wavelet transform;PAPR.</keywords>
+				<authors>
+					<author>
+						<name first="M. N." last="Suma">M. N. Suma</name>
+						<affiliation>BMS College of Engineering, Bull Temple Road, Bangalore 19, India</affiliation>
+						<email>Suma.bms@gmail.com</email>
+					</author>
+					<author>
+						<name first="S. V." last="Narasimhan">S. V. Narasimhan</name>
+						<affiliation>CSIR-National Aerospace Lab, PB 1779, Old Airport Road, Kodihalli, Bangalore - 560 017, India</affiliation>
+						<email>narsim@nal.res.in</email>
+					</author>
+					<author>
+						<name first="B." last="Kanmani">B. Kanmani</name>
+						<affiliation>BMS College of Engineering, Bull Temple Road, Bangalore 19, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-20</date>
+					<date type="R">2014-08-29</date>
+					<date type="A">2014-10-21</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Heat transfer between two parallel porous plates for Couette flow under pressure gradient and Hall current</title>
+				<feature></feature>
+				<page>0183-0197</page>
+				<abstract>
+					<p>The aim of the present paper is to study the unsteady magneto-hydrodynamic viscous Couette flow with heat transfer in a Darcy porous medium between two infinite parallel porous plates considering Hall effect, and temperature dependent physical properties under constant pressure gradient. The parallel plates are assumed to be porous and subjected to a uniform suction from above and injection from below while the fluid is flowing through a porous medium that is assumed to obey Darcy’s law. A numerical solution for the governing nonlinear partial differential equations coupled with set of momentum equations and the energy equation including the viscous and Joule dissipations is adopted. The effect of the porosity of the medium, the Hall current and the temperature dependent viscosity and thermal conductivity on both the velocity and temperature distributions are investigated. It is found that the porosity numberMhas a marked effect on decreasing the velocity distribution (owing to a simultaneous increase in Darcy porous drag). Also the temperature T is decreased considerably with increasing porosity number.With increasing Hall current parameter m, the velocity component u (x-direction) is considerably increased, whereas velocity component w (z-direction) is reduced. Temperatures are decreased in the early stages of flow but effectively increased in the steady state with increasing m.</p>
+				</abstract>
+				<keywords>Flow between two parallel plates;Couette flow;porous medium;heat transfer;finite differences.</keywords>
+				<authors>
+					<author>
+						<name first="Hazem A." last="Attia">Hazem A. Attia</name>
+						<affiliation>Department of Engineering Mathematics and Physics, Faculty of Engineering, El-Fayoum University, El-Fayoum 63514, Egypt</affiliation>
+						<email>ah1113@yahoo.com</email>
+					</author>
+					<author>
+						<name first="W." last="Abbas">W. Abbas</name>
+						<affiliation>Basic and Applied Science Department, College of Engineering and Technology, Arab Academy for Science, Technology, and Maritime Transport, Cairo 2033, Egypt</affiliation>
+						<email>wael_abass@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Mostafa A. M." last="Abdeen">Mostafa A. M. Abdeen</name>
+						<affiliation>Department of Engineering Mathematics and Physics, Faculty of Engineering, Cairo University, Giza 12211, Egypt</affiliation>
+						<email>mostafa_a_m_abdeen@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Ahmed A. M." last="Said">Ahmed A. M. Said</name>
+						<affiliation>Department of Engineering Mathematics and Physics, Faculty of Engineering, Helwan University, Cairo 11718, Egypt</affiliation>
+						<email>engahmidali@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-10</date>
+					<date type="R">2014-06-18</date>
+					<date type="A">2014-09-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Elastic buckling analysis of corroded stiffened plates with irregular surfaces</title>
+				<feature></feature>
+				<page>0199-0213</page>
+				<abstract>
+					<p>Numerical simulation is used to study the influence of corrosion damage in stiffened plates focusing on elastic buckling strength. Three-dimensional specta are used to simulate geometries of corroded surfaces and finite element method is employed for computing Euler stress of stiffened plates. The influence of corrosion patterns, amount of corrosion loss and roughness of surface are investigated. Ratio of Euler stress of corroded stiffened plate over Euler stress of un-corroded stiffened plate is used to characterize the effects of corrosion on reduction of buckling strength. Results show that reduction of buckling strength is very sensitive to the amount of corrosion loss and roughness of surface, but less sensitive to the location of corroded region. The potential for decrease in buckling strength as a consequence of corrosion is found to depend on the dominant buckling mode. Residual buckling strength is reduced by as much as 12% for the interaction of plate-web-torsional buckling mode, and by 2% for column buckling.</p>
+				</abstract>
+				<keywords>Corrosion;irregular surfaces;stiffened panel;interaction of buckling modes.</keywords>
+				<authors>
+					<author>
+						<name first="Ahmad" last="Rahbar-Ranji">Ahmad Rahbar-Ranji</name>
+						<affiliation>Department of Ocean Engineering, AmirKabir University of Technology, Hafez Ave., Tehran 15914, Iran</affiliation>
+						<email>rahbar@aut.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-25</date>
+					<date type="R">2014-08-04</date>
+					<date type="A">2014-09-04</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A simplified four-unknown shear and normal deformations theory for bidirectional laminated plates</title>
+				<feature></feature>
+				<page>0215-0234</page>
+				<abstract>
+					<p>This paper presents a simplified 4-unknown shear and normal deformations theory for the bending analysis of cross-ply laminated plates. The present theory accounts for an adequate distribution of transverse shear strains through the plate thickness and tangential stress-free on the plate surfaces. The effect of normal strain is also included. The governing, equilibrium equations and boundary conditions are derived by employing the virtual work principle. Numerical results for stresses and displacements are compared well with those obtained using 3-D elasticity solution.</p>
+				</abstract>
+				<keywords>Cross-ply laminates;four-unknown sinusoidal plate theory.</keywords>
+				<authors>
+					<author>
+						<name first="A. M." last="Zenkour">A. M. Zenkour</name>
+						<affiliation>Department of Mathematics, Faculty of Science, King Abdulaziz University, P.O. Box 80203, Jeddah 21589, Saudi Arabia</affiliation>
+						<affiliation>Department of Mathematics, Faculty of Science, Kafrelsheikh University, Kafr El-Sheikh 33516, Egypt</affiliation>
+						<email>zenkour@gmail.com; zenkour@kau.edu.sa</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-10-30</date>
+					<date type="R">2014-06-21</date>
+					<date type="A">2014-09-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Interfacial stresses in strengthened beam with shear cohesive zone model</title>
+				<feature></feature>
+				<page>0235-0248</page>
+				<abstract>
+					<p>The failure of strengthened beams with fibre-reinforced polymer (FRP) materials is due to high stress concentration of FRP–concrete interface. Understanding the cause and mechanism of the debonding of the FRP plate and the prediction of the stress distribution at the concrete–FRP interface are important for more effective strengthening technique. This paper presents an analytical solution, based on Smith and Teng’s equations, for interfacial shear and normal stresses in reinforced concrete (RC) beams strengthened with a fibre reinforced polymer (FRP) plate. However, the shear stress–strain relationship is considered to be bilinear curve. The effects of the shear deformations are calculated in an RC beam, an adhesive layer, and an FRP plate. The results of parametric study are compared with those of Smith and Teng. They confirm the accuracy of the proposed approach in predicting both interfacial shear and normal stresses.</p>
+				</abstract>
+				<keywords>Strengthened beam;interfacial stresses;cohesive zone;shear deformation.</keywords>
+				<authors>
+					<author>
+						<name first="Zergua" last="Abdesselam">Zergua Abdesselam</name>
+						<affiliation>Department of Civil Engineering, University of Constantine 1, Constantine, Algeria</affiliation>
+						<email>zergua.abdesselam@umc.edu.dz</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-04-24</date>
+					<date type="R">2014-07-14</date>
+					<date type="A">2014-09-12</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Strengthening of steel–concrete composite girders using carbon fibre reinforced polymer (CFRP) plates</title>
+				<feature></feature>
+				<page>0249-0261</page>
+				<abstract>
+					<p>Applying composites in order to strengthen and renew the infrastructures has globally been accepted. Traditional methods to strengthen the out-of-standard structures are costly, time consuming and requires a lot of labour. Today, new techniques are hired using light and strong substances which also resist against corrosion, known as Carbon Fibre Reinforced Polymer (CFRP) plates. Regarding the high tensile strength and proper module of elasticity, CFRP plates are considered as a suitable alternative to strengthen girders. The behaviour of steel–concrete composite girders being statically loaded and strengthened by CFRP plates in this study. The CFRP plates used in this study have been stuck, with epoxy adhesive, under the tensile sections of three steel girders. The results accompanied with analytical study of moment–curvature and numerical analysis done with ANSYS, show that CFRP plates with epoxy adhesive increases the ultimate loading capacity of steel–concrete composite girder. Plastic stiffness of the girders was also increased.</p>
+				</abstract>
+				<keywords>Strengthening;CFRP;steel–concrete;ANSYS and composite.</keywords>
+				<authors>
+					<author>
+						<name first="S. M." last="Mosavi">S. M. Mosavi</name>
+						<affiliation>Department of Civil Engineering, Tonekabon Branch, Islamic Azad University, Tonekabon, Iran</affiliation>
+						<email>dr.sayedmohammadmosavi@gmail.com</email>
+					</author>
+					<author>
+						<name first="A. Sadeghi" last="Nik">A. Sadeghi Nik</name>
+						<affiliation>Young Researchers and Elite Club, Jouybar Branch, Islamic Azad University, Jouybar, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-01-30</date>
+					<date type="R">2014-08-21</date>
+					<date type="A">2014-08-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quantitative study on crack of meso-damage and fracture concrete based on CT technique</title>
+				<feature></feature>
+				<page>0263-0276</page>
+				<abstract>
+					<p>The meso-mechanics experiment of concrete specimen is carried out by means of CT technology, the whole degradation deformation process of meso-cracks generation, propagation, coalescence and failure is obtained under uniaxial compression condition. Based on CT image of concrete meso-damage evolution, the recognition and extraction of meso-cracks are realized by means of the digital imageprocessing (DIP) technique, and the basic geometrical characteristics of meso-crack patterns are statistically analysed from length, width and area. The quantitative analysis of the meso-fracture process of concrete materials is performed. The results demonstrate that the quantitative analysis of the internal meso-crack of concrete can be taken as a quantitative index to reflect the damage and fracture process thereby the meso-fracture mechanism of concrete material is thoroughly investigated. So it has brought forth some new ideas to the study of damage evolution law of concrete under uniaxial compression condition.</p>
+				</abstract>
+				<keywords>Concrete;meso-damage evolution;CT image;meso-crack;quantitative analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Wei" last="Tian">Wei Tian</name>
+						<affiliation>School of Civil Engineering, Chang’an University, Xi’an 710061, China</affiliation>
+						<affiliation>School of Highway, Chang’an University, Xi’an 710064, China</affiliation>
+						<email>tianwei@chd.edu.cn</email>
+					</author>
+					<author>
+						<name first="Faning" last="Dang">Faning Dang</name>
+						<affiliation>Institute of Geotechnical Engineering, Xi’an University of Technology, Xi’an 710048, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yongli" last="Xie">Yongli Xie</name>
+						<affiliation>School of Highway, Chang’an University, Xi’an 710064, China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-06-27</date>
+					<date type="R">2014-09-17</date>
+					<date type="A">2014-09-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Study of a railway embankment reinforced with jute tassels</title>
+				<feature></feature>
+				<page>0277-0293</page>
+				<abstract>
+					<p>This paper presents the results of laboratory model tests and corresponding numerical analyses carried out on a model slope representing an actual railway embankment which failed on several occasions after overnight heavy rainfall. In the absence of any field data, the displacement behaviour and failure pattern of the model embankment slope are observed in the laboratory under fully saturated condition and under a static load at the crest simulating the actual rail loads. A study is also performed by reinforcing the slope with thin jute tassels of 1 mm diameter. The numerical simulation of the model tests is performed by a commercial program called FLAC. The responses of the model slope with and without jute tassels are observed in fully saturated condition. Significant improvement in deformation of the slope is observed both in the case of numerical analyses and laboratory experiments when jute tassels are utilized as a slope protection measure. The study indicates that the stability of the railway embankment can be improved significantly at low cost by reinforcing it with jute tassels.</p>
+				</abstract>
+				<keywords>Embankment;models (physical);soil reinforcement;jute tassel;slope failures.</keywords>
+				<authors>
+					<author>
+						<name first="Aniruddha" last="Sengupta">Aniruddha Sengupta</name>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology Kharagpur, Kharagpur 721302, India</affiliation>
+						<email>sengupta@civil.iitkgp.ernet.in</email>
+					</author>
+					<author>
+						<name first="Suvadeep" last="Dalal">Suvadeep Dalal</name>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology Kharagpur, Kharagpur 721302, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-28</date>
+					<date type="R">2014-07-30</date>
+					<date type="A">2014-09-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the use of Stockwell transform in structural dynamic analysis</title>
+				<feature></feature>
+				<page>0295-0306</page>
+				<abstract>
+					<p>Time-frequency analysis of earthquake records using Fourier transform is a fundamental, reliable and useful tool in earthquake engineering and engineering seismology. It will be however no longer functional if the frequency variation is analysed in time domain. Short time Fourier transform is utilized for the same purpose but this has also its own limitations and restrictions. In this research, Stockwell transform (S-transform), is evaluated in investigating frequency content of signal in time domain. First, the effectiveness of S-transform was tested by a non-stationary synthetic signal series with a sum of various instantaneous time varying frequency functions. Then, transform was employed to three different earthquake waveforms of Iwate-Miyagi Nairiku earthquake (M$_{\text{w}}$ 6.9, 2008); recorded in near, moderate and far sites. Finally, an application was demonstrated for determining dynamic response of three-story frame structure by using El Centro earthquake compiled with harmonic motion. Unlike widely used continuous wavelet transform, which provides temporal and spectral information simultaneously, S-transform is very straightforward and easy to manipulate for interpretations. All cases considered in this research showed that Stransform can be implemented for further research activities related with frequencydependent strong motion analysis by practitioners and engineers. S-transform can distinguish abrupt frequency changes in structures effectively and accurately.</p>
+				</abstract>
+				<keywords>Time-frequency domain;Stockwell transform;structural dynamic analysis;near-far field earthquake ground motion.</keywords>
+				<authors>
+					<author>
+						<name first="H. Serdar" last="Kuyuk">H. Serdar Kuyuk</name>
+						<affiliation>Seismological Laboratory, UCBerkeley, McCone Hall, Berkeley, California 94720, USA</affiliation>
+						<affiliation>Department of Civil Engineering, Engineering Faculty, Sakarya University, Sakarya 54100, Turkey</affiliation>
+						<email>serdarkuyuk@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-24</date>
+					<date type="R">2014-04-24</date>
+					<date type="A">2014-09-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+</journal>
